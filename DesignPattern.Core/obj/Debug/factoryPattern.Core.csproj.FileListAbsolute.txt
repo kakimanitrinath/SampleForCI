@@ -1,0 +1,10 @@
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern.Core\bin\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern.Core\bin\Debug\DesignPattern.Core.pdb
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern.Core\obj\Debug\factoryPattern.Core.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern.Core\obj\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern.Core\obj\Debug\DesignPattern.Core.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern.Core\bin\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern.Core\bin\Debug\DesignPattern.Core.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern.Core\obj\Debug\factoryPattern.Core.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern.Core\obj\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern.Core\obj\Debug\DesignPattern.Core.pdb

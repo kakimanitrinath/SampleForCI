@@ -1,0 +1,24 @@
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\bin\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\bin\Debug\AdapterPatternTests.pdb
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\obj\Debug\AdapterPatternTests.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\obj\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPatternTests\obj\Debug\AdapterPatternTests.pdb
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\bin\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\bin\Debug\AdapterPatternTests.pdb
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\bin\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\bin\Debug\AdapterPatternTests.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPatternTests\obj\Debug\AdapterPatternTests.pdb

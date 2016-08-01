@@ -1,0 +1,24 @@
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\bin\Debug\DesignPattern.exe.config
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\bin\Debug\DesignPattern.exe
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\bin\Debug\DesignPattern.pdb
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\bin\Debug\DesignPattern.Core.dll
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\bin\Debug\DesignPattern.Core.pdb
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\obj\Debug\DesignPattern.exe
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\bin\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\bin\Debug\DesignPattern.Core.pdb
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\st20\Documents\DesignPatternRepo\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\bin\Debug\DesignPattern.Core.dll
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\bin\Debug\DesignPattern.Core.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\st20\Documents\DesignPatternsRepo\DesignPattern\obj\Debug\DesignPattern.pdb

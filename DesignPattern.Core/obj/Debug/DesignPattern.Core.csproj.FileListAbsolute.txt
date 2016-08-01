@@ -1,0 +1,5 @@
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern.Core\bin\Debug\DesignPattern.Core.dll
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern.Core\bin\Debug\DesignPattern.Core.pdb
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern.Core\obj\Debug\DesignPattern.Core.csprojResolveAssemblyReference.cache
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern.Core\obj\Debug\DesignPattern.Core.dll
+c:\users\st20\documents\visual studio 2015\Projects\DesignPatternSoln\DesignPattern.Core\obj\Debug\DesignPattern.Core.pdb

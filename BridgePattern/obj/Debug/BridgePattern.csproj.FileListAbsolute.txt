@@ -1,0 +1,8 @@
+C:\Users\st20\Documents\DesignPatternRepo\BridgePattern\bin\Debug\BridgePattern.dll
+C:\Users\st20\Documents\DesignPatternRepo\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\BridgePattern\obj\Debug\BridgePattern.dll
+C:\Users\st20\Documents\DesignPatternRepo\BridgePattern\obj\Debug\BridgePattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\BridgePattern\bin\Debug\BridgePattern.dll
+C:\Users\st20\Documents\DesignPatternsRepo\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\BridgePattern\obj\Debug\BridgePattern.dll
+C:\Users\st20\Documents\DesignPatternsRepo\BridgePattern\obj\Debug\BridgePattern.pdb

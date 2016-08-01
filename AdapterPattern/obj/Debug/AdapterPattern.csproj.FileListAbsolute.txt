@@ -1,0 +1,15 @@
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPattern\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPattern\obj\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\Visual Studio 2015\Projects\DesignPatternSoln\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPattern\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPattern\obj\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternRepo\AdapterPattern\obj\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPattern\bin\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPattern\obj\Debug\AdapterPattern.dll
+C:\Users\st20\Documents\DesignPatternsRepo\AdapterPattern\obj\Debug\AdapterPattern.pdb
